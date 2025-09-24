@@ -1,9 +1,13 @@
 # Hi There 👋🏽, I'm Simon
+
 🚀 A Computer Science Major passionate about programming and learning new technologies <br>
 👨🏽‍💻 Aspiring Software Engineer <br>
 🖥️ Full Stack Web Developer <br>
 <!--📲 Mobile App Developer <br>-->
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Anime+%26+Soccer+Fan" alt="Typing SVG" />
+</div>
 
 
 ## 🌐 Social Platforms:
