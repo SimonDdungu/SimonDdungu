@@ -1,17 +1,15 @@
 # Hi There 👋🏽, I'm Simon
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+</div>
+
 🚀 A Computer Science Major passionate about programming and learning new technologies <br>
 👨🏽‍💻 Aspiring Software Engineer <br>
 🖥️ Full Stack Web Developer <br>
 <!--📲 Mobile App Developer <br>-->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SimonDdungu&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 
 ## 🌐 Social Platforms:
