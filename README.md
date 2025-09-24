@@ -26,7 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simonddungu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimonDdungu&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimonDdungu&theme=github_dark" alt="Repos Per Language" />
 </div> 
 
 ---
