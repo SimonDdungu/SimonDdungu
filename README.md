@@ -1,6 +1,6 @@
 # Hi There 👋🏽, I'm Simon
 
-<div>
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
